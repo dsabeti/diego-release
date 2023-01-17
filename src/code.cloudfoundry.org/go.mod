@@ -78,7 +78,7 @@ require (
 	github.com/opencontainers/image-spec v1.0.3-0.20220114050600-8b9d41f48198
 	github.com/pborman/getopt v1.1.0
 	github.com/pkg/errors v0.9.1
-	github.com/pkg/sftp v1.13.0
+	github.com/pkg/sftp v1.13.5
 	github.com/spf13/cobra v1.4.0
 	github.com/square/certstrap v1.2.0
 	github.com/tedsuo/ifrit v0.0.0-20191009134036-9a97d0632f00
